@@ -1,11 +1,9 @@
 buildscript {
 	ext {
-		springBootVersion = '2.0.0.BUILD-SNAPSHOT'
+		springBootVersion = '1.5.10.RELEASE'
 	}
 	repositories {
 		mavenCentral()
-		maven { url "https://repo.spring.io/snapshot" }
-		maven { url "https://repo.spring.io/milestone" }
 	}
 	dependencies {
 		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
@@ -35,12 +33,13 @@ configurations {
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-actuator')
 	compile('org.springframework.boot:spring-boot-starter-data-neo4j')
-	compile('org.springframework.boot:spring-boot-starter-web')
+//	compile('org.springframework.boot:spring-boot-starter-web')
+	compile("org.springframework.boot:spring-boot-starter-web")
 	runtime('org.springframework.boot:spring-boot-devtools')
 //	providedRuntime('org.springframework.boot:spring-boot-starter-tomcat')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
-	compile 'org.neo4j:neo4j-ogm-http-driver:2.0.5'
-	compile 'org.neo4j:neo4j-ogm-bolt-driver:2.0.5'
-	compile 'org.neo4j:neo4j-ogm-embedded-driver:2.0.5'
+//	compile 'org.neo4j:neo4j-ogm-http-driver:2.0.5'
+//	compile 'org.neo4j:neo4j-ogm-bolt-driver:2.0.5'
+//	compile 'org.neo4j:neo4j-ogm-embedded-driver:2.0.5'
 	compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
 }
