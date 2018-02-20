@@ -22,7 +22,7 @@ public class GraphService {
 	
 	
 	public void deleteNode(Long id) {
-		reuniaoRepository.deleteById(id);
+		reuniaoRepository.delete(id);
 	}
 
 

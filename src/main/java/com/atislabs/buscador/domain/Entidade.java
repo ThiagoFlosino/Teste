@@ -1,14 +1,13 @@
 package com.atislabs.buscador.domain;
 
-import org.neo4j.ogm.annotation.GeneratedValue;
-import org.neo4j.ogm.annotation.Id;
+import org.neo4j.ogm.annotation.GraphId;
 import org.neo4j.ogm.annotation.NodeEntity;
 
 
 @NodeEntity(label = "Entidade")
 public abstract class Entidade {
 		
-	@Id @GeneratedValue
+	@GraphId
 	private Long graphId;
 
 	private Long id;

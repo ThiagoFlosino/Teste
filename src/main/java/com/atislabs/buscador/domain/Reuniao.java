@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.neo4j.ogm.annotation.Id;
+import org.neo4j.ogm.annotation.GraphId;
 import org.neo4j.ogm.annotation.NodeEntity;
 import org.neo4j.ogm.annotation.Relationship;
 import org.neo4j.ogm.annotation.typeconversion.DateLong;
@@ -14,10 +14,9 @@ import org.springframework.format.annotation.DateTimeFormat;
 @NodeEntity(label = "Reuniao")
 public class Reuniao {
 	
-	@Id 
+	@GraphId 
 	private Long id;
 	
-	@DateLong
 	@DateTimeFormat(pattern="yyyy-MM-dd")
 	private Date data; 
 	private String nome;

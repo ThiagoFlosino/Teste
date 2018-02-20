@@ -1,16 +1,13 @@
 package com.atislabs.buscador.controller;
 
-import java.util.Date;
-import java.util.List;
-
 import org.neo4j.ogm.session.Session;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.atislabs.buscador.domain.Reuniao;
@@ -39,9 +36,10 @@ public class ReuniaoController {
 		return mv;	
 	}
 */	
-	
-	public List<Reuniao> findAll() {
-		return (List<Reuniao>) service.getReuniaoRepository().findAll();
+	@RequestMapping(path="/all")
+	@GetMapping
+	public Iterable<Reuniao> findAll() {
+		return service.getReuniaoRepository().findAll();
 	}
 
 	@GetMapping
@@ -50,16 +48,8 @@ public class ReuniaoController {
 	}
 
 	
-	@PostMapping
-	@ResponseBody
-	public Reuniao create(@RequestParam @DateTimeFormat(pattern = "yyyy-MM-dd")Date data, @RequestParam String nome, @RequestParam String documento,
-			@RequestParam Integer numero) {
-		Reuniao reuniao = new Reuniao();
-		reuniao.setData(data);
-		reuniao.setNome(nome);
-		reuniao.setDocumento(documento);
-		reuniao.setNumeroReuniao(numero);
-		
+	@PostMapping	
+	public Reuniao create(@RequestBody Reuniao reuniao) {
 		service.create(reuniao);
 		
 		return reuniao;
