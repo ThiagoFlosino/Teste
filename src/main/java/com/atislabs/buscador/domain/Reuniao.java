@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.neo4j.ogm.annotation.Id;
+import org.neo4j.ogm.annotation.GraphId;
 import org.neo4j.ogm.annotation.NodeEntity;
 import org.neo4j.ogm.annotation.Relationship;
 import org.neo4j.ogm.annotation.typeconversion.DateLong;
@@ -14,15 +14,17 @@ import org.springframework.format.annotation.DateTimeFormat;
 @NodeEntity(label = "Reuniao")
 public class Reuniao {
 	
-	@Id 
+	@GraphId 
 	private Long id;
 	
-	@DateLong
 	@DateTimeFormat(pattern="yyyy-MM-dd")
 	private Date data; 
 	private String nome;
 	private Integer numeroReuniao;
 	private String documento;
+	
+	@Relationship(type = "CITADO", direction = Relationship.INCOMING)
+	private Set<Entidade> citados = new HashSet<>();
 	
 	@Relationship(type = "PERTENCE", direction = Relationship.OUTGOING)
 	private Departamento departamento;
@@ -121,16 +123,16 @@ public class Reuniao {
 		return participantes;
 	}
 
-	public void setParticipantes(Set<Pessoa> participantes) {
-		this.participantes = participantes;
+	public void setParticipantes(Pessoa participante) {
+		this.participantes.add(participante);
 	}
 
 	public Set<Artefato> getRelacoes() {
 		return relacoes;
 	}
 
-	public void setRelacoes(Set<Artefato> relacoes) {
-		this.relacoes = relacoes;
+	public void setRelacoes(Artefato relacoes) {
+		this.relacoes.add(relacoes);
 	}
 
 	public Departamento getDepartamento() {
@@ -145,10 +147,17 @@ public class Reuniao {
 		return ausentes;
 	}
 
-	public void setAusentes(Set<Pessoa> ausentes) {
-		this.ausentes = ausentes;
+	public void setAusentes(Pessoa ausentes) {
+		this.ausentes.add(ausentes);
 	}
 	
+	public void setCitados(Entidade entidade) {
+		this.citados.add(entidade);
+	}
+	
+	public Set<Entidade> getCitados(){
+		return this.citados;
+	}
 
 	
 	

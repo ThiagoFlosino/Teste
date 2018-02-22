@@ -1,18 +1,18 @@
 package com.atislabs.buscador.controller;
 
-import java.util.Date;
 import java.util.List;
 
 import org.neo4j.ogm.session.Session;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.atislabs.buscador.domain.Aluno;
 import com.atislabs.buscador.domain.Reuniao;
 import com.atislabs.buscador.repository.service.GraphService;
 
@@ -27,11 +27,16 @@ public class ReuniaoController {
 	@Autowired private GraphService service;
 	@Autowired private Session session;
 	
-/*	@RequestMapping(value="/{id}", method = RequestMethod.GET)
-	public @ResponseBody Reuniao getReuniao(@PathVariable Long id) {
-		Optional<Reuniao> reuniao = service.getReuniaoRepository().findById(id);
-		return reuniao.get();
-	}*/
+	@RequestMapping(path="/teste",params="num")
+	@GetMapping
+	public Reuniao update(@RequestParam Integer num) {
+		Reuniao reuniao = service.getReuniaoRepository().findByNumeroReuniao(num);
+		Aluno aluno = new Aluno();
+		aluno.setNome("Novo Aluno");
+		reuniao.setParticipantes(aluno);
+		service.create(reuniao);
+		return reuniao;
+	}
 	
 /*	@RequestMapping(method=RequestMethod.GET)
 	public ModelAndView redirect() {
@@ -51,14 +56,14 @@ public class ReuniaoController {
 
 	
 	@PostMapping
-	@ResponseBody
-	public Reuniao create(@RequestParam @DateTimeFormat(pattern = "yyyy-MM-dd")Date data, @RequestParam String nome, @RequestParam String documento,
-			@RequestParam Integer numero) {
-		Reuniao reuniao = new Reuniao();
+/*	@ResponseBody*/
+	public Reuniao create(@RequestBody Reuniao reuniao/*@RequestParam @DateTimeFormat(pattern = "yyyy-MM-dd")Date data, @RequestParam String nome, @RequestParam String documento,
+			@RequestParam Integer numero*/) {
+		/*Reuniao reuniao = new Reuniao();
 		reuniao.setData(data);
 		reuniao.setNome(nome);
 		reuniao.setDocumento(documento);
-		reuniao.setNumeroReuniao(numero);
+		reuniao.setNumeroReuniao(numero);*/
 		
 		service.create(reuniao);
 		

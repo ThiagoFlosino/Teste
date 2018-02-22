@@ -1,9 +1,10 @@
 package com.atislabs.buscador;
 
+import java.util.Arrays;
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -20,22 +21,21 @@ public class BuscadorNovoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BuscadorNovoApplication.class, args);
 	}
-/*	@Bean
+	@Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
 
             System.out.println("-----------------------Funcionando-------------------------------");
 
-            String[] beanNames = ctx.getBeanDefinitionNames();
-            Arrays.sort(beanNames);
-            for (String beanName : beanNames) {
-                System.out.println(beanName);
-            }
+//            String[] beanNames = ctx.getBeanDefinitionNames();
+//            Arrays.sort(beanNames);
+//            for (String beanName : beanNames) {
+//                System.out.println(beanName);
+//            }
 
         };
     }
-*/	
-	/*@Bean
+	@Bean
 	public CorsFilter corsFilter(){
 		UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
 		CorsConfiguration config = new CorsConfiguration();
@@ -49,5 +49,5 @@ public class BuscadorNovoApplication {
 		config.addAllowedMethod("OPTIONS");
 		source.registerCorsConfiguration("/**", config);
 		return new CorsFilter(source);
-	}*/
+	}
 }

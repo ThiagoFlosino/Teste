@@ -1,6 +1,7 @@
 package com.atislabs.buscador.repository.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.neo4j.annotation.Query;
 import org.springframework.stereotype.Service;
 
 import com.atislabs.buscador.domain.Reuniao;
@@ -22,8 +23,10 @@ public class GraphService {
 	
 	
 	public void deleteNode(Long id) {
-		reuniaoRepository.deleteById(id);
+		reuniaoRepository.delete(id);
 	}
+	
+	
 
 
 }

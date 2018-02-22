@@ -3,10 +3,16 @@ package com.atislabs.buscador.domain;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.neo4j.ogm.annotation.NodeEntity;
 import org.neo4j.ogm.annotation.Relationship;
 
+
+@NodeEntity
 public class Departamento extends Artefato {
 	
+	private String nomeDepartamento;
+	
+
 	@Relationship(type = "MEMBRO", direction = Relationship.INCOMING)
 	private Set<Professor> membrosProfessor = new HashSet<>();
 	
@@ -40,15 +46,23 @@ public class Departamento extends Artefato {
 		this.membrosTecnico = membrosTecnico;
 	}
 
-	
 	public Departamento() {
 		
 	}
-	public Departamento(Set<Professor> membrosProfessor, Set<Aluno> membrosAluno, Set<Tecnico> membrosTecnico) {
+	public Departamento(Set<Professor> membrosProfessor, Set<Aluno> membrosAluno, Set<Tecnico> membrosTecnico, String nome) {
 		super();
 		this.membrosProfessor = membrosProfessor;
 		this.membrosAluno = membrosAluno;
 		this.membrosTecnico = membrosTecnico;
+		this.nomeDepartamento = nome;
+	}
+
+	public String getNomeDepartamento() {
+		return nomeDepartamento;
+	}
+
+	public void setNomeDepartamento(String nomeDepartamento) {
+		this.nomeDepartamento = nomeDepartamento;
 	}
 
 	
