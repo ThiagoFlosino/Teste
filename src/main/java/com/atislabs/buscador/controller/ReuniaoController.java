@@ -44,9 +44,10 @@ public class ReuniaoController {
 		return mv;	
 	}
 */	
-	
-	public List<Reuniao> findAll() {
-		return (List<Reuniao>) service.getReuniaoRepository().findAll();
+	@RequestMapping(path="/all")
+	@GetMapping
+	public Iterable<Reuniao> findAll() {
+		return service.getReuniaoRepository().findAll();
 	}
 
 	@GetMapping
@@ -56,15 +57,7 @@ public class ReuniaoController {
 
 	
 	@PostMapping
-/*	@ResponseBody*/
-	public Reuniao create(@RequestBody Reuniao reuniao/*@RequestParam @DateTimeFormat(pattern = "yyyy-MM-dd")Date data, @RequestParam String nome, @RequestParam String documento,
-			@RequestParam Integer numero*/) {
-		/*Reuniao reuniao = new Reuniao();
-		reuniao.setData(data);
-		reuniao.setNome(nome);
-		reuniao.setDocumento(documento);
-		reuniao.setNumeroReuniao(numero);*/
-		
+	public Reuniao create(@RequestBody Reuniao reuniao) {
 		service.create(reuniao);
 		
 		return reuniao;

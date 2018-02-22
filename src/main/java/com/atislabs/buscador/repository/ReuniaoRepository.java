@@ -21,4 +21,5 @@ public interface ReuniaoRepository extends Neo4jRepository<Reuniao, Long>{
 		
 		@Query("MATCH (r:Reuniao)-[:CITADO]-(p:Processo)-[:Requeriu]-(e:Entidade {trecho = {0}}) RETURN *")
 		public Reuniao buscaProcessosRequeridosPorPessoa(String nomePessoa);
+
 }

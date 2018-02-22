@@ -9,10 +9,9 @@ import org.neo4j.ogm.annotation.Relationship;
 
 @NodeEntity
 public class Departamento extends Artefato {
+		
+	private String nome;
 	
-	private String nomeDepartamento;
-	
-
 	@Relationship(type = "MEMBRO", direction = Relationship.INCOMING)
 	private Set<Professor> membrosProfessor = new HashSet<>();
 	
@@ -54,15 +53,15 @@ public class Departamento extends Artefato {
 		this.membrosProfessor = membrosProfessor;
 		this.membrosAluno = membrosAluno;
 		this.membrosTecnico = membrosTecnico;
-		this.nomeDepartamento = nome;
+		this.nome = nome;
 	}
 
-	public String getNomeDepartamento() {
-		return nomeDepartamento;
+	public String getNome() {
+		return nome;
 	}
 
-	public void setNomeDepartamento(String nomeDepartamento) {
-		this.nomeDepartamento = nomeDepartamento;
+	public void setNome(String nome) {
+		this.nome = nome;
 	}
 
 	
