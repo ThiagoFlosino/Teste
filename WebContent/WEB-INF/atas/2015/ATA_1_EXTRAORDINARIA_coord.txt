@@ -1,0 +1,44 @@
+﻿Às 14h (catorze horas) do dia 01 (primeiro) de OUTUBRO do ano de 2015 (dois mil e catorze), na sala 210 (duzentos e dez), do Bloco Multimídia, da Universidade Federal Rural do Rio de Janeiro, campus Nova Iguaçu, sito na Av. Governador Roberto Silveira S/N, reuniu-se o Colegiado do Departamento de Ciência da Computação, na sua 10ª (décima) reunião ordinária, sob presidência de JULIANA MENDES NASCENTE E SILVA ZAMITH, presentes os professores BRUNO JOSÉ DEMBOGURSKI, CARLOS EDUARDO RIBEIRO DE MELLO, FILIPE BRAIDA DO CARMO, MARCEL WILLIAM ROCHA DA SILVA, MARCELO PANARO DE MORAES ZAMITH, NATÁLIA CHAVES LESSA SCHOTS, RAQUEL DE SOUZA FRANCISCO BRAVO, RICARDO CORDEIRO CORRÊA e a técnica VALÉRIA PRADO DE ARAGÃO. Ausentes justificadamente FELLIPE RIBEIRO DUARTE, LEANDRO GUIMARÃES MARQUES ALVIM, LÍGIA MARIA SOARES PASSOS, LUÍS FERNANDO ORLEANS,  e o técnico RAFAEL DE CARVALHO BANDEIRA, a fim de tratar dos seguintes pontos: 1. Informes: não tiveram informes. Ponto 1: Inclusão de Disciplinas na Matriz Curricular A presidente do colegiado expôs que  apesar de já ter sido aprovado por unanimidade a inclusão das disciplinas Computação I (Cod. TM422),  Computação II (Cod. TM423), Estruturas de Dados I (Cod. TM 424), Projeto e Análise de Algoritmos (Cod. TM425), Banco de Dados (Cod. TM426), Redes de Computadores (Cod. TM427) e Computação Gráfica (Cod. TM421) na Matriz Curricular do Curso de Ciência da Computação como está devidamente especificado no processo n.º 23267.000922/2015-88 no mesmo processo não consta em quais períodos as disciplinas serão inseridas.  Diante disto, a professora esclareceu que as disciplinas substituirão as respectivas   disciplinas da Matriz Vigente e portanto não será alterado o período das mesmas. Portanto, a modificação na matriz ocorrerá em relação ao código e ementas das mesmas, além do nome de duas das disciplinas listadas, como segue:  Computação I (Cod. TM422) será incluída no primeiro período substituindo  a disciplina Computação I (IM 406); Computação II (Cod. TM423) será incluída no segundo período substituindo  a disciplina Computação II (IM 407), Estruturas de Dados I (Cod. TM424) será incluída no terceiro período substituindo a disciplina Estrutura de Dados (Cod. IM 468); Projeto e Análise de Algoritmos  será incluída no quinto período substituindo a disciplina Análise de Algoritmos  (Cod. IM 471); Banco de dados (Cod. TM426) será incluída no sexto período substituindo  a disciplina de Banco de Dados (Cod IM473); Redes de Computadores (Cod. TM427) será incluída também no  sexto período substituindo a disciplina de Redes de Computadores (Cod. IM 476); e, finalmente, Computação Gráfica (Cod. TM421) será incluída no oitavo período substituindo  a disciplina  Computação Gráfica (Cod IM 472). Além disto, a professora explicou que a carga horária das disciplinas não serão alteradas e a modificação das ementas destas disciplinas fortalecerá o desenvolvimento das aptidões e competências enumeradas como perfil do egresso descrito no PPC vigente do curso. Após exposição a presidente do colegiado colocou em votação a inclusão das disciplinas na Matriz Curricular conforme exposto e descrito acima que foi aprovada por unanimidade pelos membros presentes do colegiado. 3 Assuntos gerais: Não tiveram assuntos gerais. Não havendo nada mais a registrar, eu, Valéria Prado de Aragão, elaborei e confeccionei a presente Ata que vai subscrita pelos demais presentes que aquiescerem com seus termos.
+
+
+
+Juliana Mendes Nascente e Silva Zamith
+              Presidente
+
+
+
+
+Valéria Prado de Aragão
+            Secretária
+
+
+
+Bruno Dembougurski
+
+
+
+Carlos Eduardo Ribeiro de Mello
+
+
+
+Filipe Braida do Carmo
+
+
+
+Marcel William Rocha da Silva
+
+
+
+Leandro Guimarães Marques Alvim
+
+
+
+Lígia Maria Soares Passos
+
+
+
+Luís Fernando Orleans
+
+
+
+Ricardo Cordeiro Corrêa

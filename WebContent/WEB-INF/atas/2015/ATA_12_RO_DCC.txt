@@ -1,0 +1,80 @@
+﻿
+
+
+
+
+
+Ás 14h (dez horas) do dia 04 (quatro) de novembro do ano de 2015 (dois mil e quinze), na sala 209 (duzentos e dez) do Bloco Multimídia da Universidade Federal Rural do Rio de Janeiro, campus  Nova Iguaçu, sito na Av. Governador Roberto Silveira S/N, reuniu-se o Colegiado do Departamento de Ciência da Computação, na sua 11ª (décima pimeira) reunião ordinária, sob presidência de MARCEL WILLIAM ROCHA DA SILVA, presentes os professores,  BRUNO JOSÉ DEMBOGURSKI, FELLIPE RIBEIRO DUARTE,  JULIANA MENDES NASCENTE, LEANDRO GUIMARÃES MARQUES ALVIM, LUÍS FERNANDO ORLEANS, e RAQUEL DE SOUZA FRANCISCO BRAVO, RICARDO CORRÊA CORDEIRO e os técnicos RAFAEL DE CARVALHO BANDEIRA e VALÉRIA PRADO DE ARAGÃO. Ausentes justificadamente ADRIA RAMOS DE LYRA, CARLOS EDUARDO  DE MELLO,    FILIPE BRAIDA DO CARMO, LÍGIA MARIA SOARES PASSOS, MARCELO PANARO DE MORAES ZAMITH, NATÁLIA CHAVES LESSA SCHOTS. a fim de tratar dos seguintes pontos: 1. Informes: 1. O prof. Leandro Alvim informou que o discente Mateus Ferreira foi um dos nossos representantes na Olimpíadas Brasileiras de Informática. 2.  Prof. Ricardo Corrêa solicitou informações sobre os representantes de discentes. O Presidente esclareceu que os alunos estavam se reunindo para sugerir alguns nomes para a representação. 1. Processo nº 23267000995/2015-78 – Progressão Profº Luiz Fernando Orleans: Indicação da banca de progressão: Adria Ramos de Lyra (Presidente), Ricardo Corrêa Cordeiro e Marcelo Ferreira Farias. Aprovada por unanimidade. 2. Processo de  Afastamento n º 23267.001226/2015-97 – Profª Natália Schots: O Chefe do Departamento informou sobre a solicitação de afastamento de curta duração da docente, no período de 09 a 13 de novembro de 2015, para participação voluntária de uma avaliação no contexto do programa MPS.BR (www.softex.br/mpsbr) em uma organização de desenvolvimento de software situada em Maringá/PR , o que envolve a prática de engenharia de software relacionada ao tema da tese de Doutorado, Análise de Desempenho de Processos, defendida pela professora. A docente será substituída pela prof. Lígia Maria Soares Passos. Aprovado por unanimidade. 3. Processo de  Afastamento nº 23267.001335/2015-12 – Prof. Filipe Braida do Carmo: O Presidente solicitou a aprovação do ad referendum do processo de afastamento de curta duração para ministrar um curso, nos dias 4 e 5 de novembro de 2015, no SERPRO – Regional Recife. O convite foi realizado no âmbito do projeto PESC_18979 (, “Treinamento, Definição de Requisitos e Internalização de Mecanismos de Interoperabilidade e Integração de Dados do SICONV” firmado entre a Fundação COPPETEC e o Ministério do Orçamento, Planejamento e Gestão. Aprovado o ad referendun por unanimidade. 4. Assuntos gerais: 1. Processo nº 23267.001340/2015-17: Programa de Extensão: Curso de Férias do Ciência da Computação: 
+
+
+
+
+
+O prof. Luiz Fernando Orleans e o prof. Bruno Dembougurski discorreram sobre a criação do programa de um curso de Ciência da Computação o qual seria ministrado na UFRRJ/IM durante as férias. Aprovado por unanimidade. 2. Afastamento para cursar Doutorado Pro. Fellipe Duarte. O professor Marcel William comentou sobre o processo de afastamento do docente Felipe Duarte, sugeriu que discutissem sobre a alocação das disciplinas ministradas pelo professor. Ficou decidido que a disciplina Computação II o prof. Luiz Fernando assumiria e a Modelagem de Sistemas . 3. Aprovação das regras para a utilização dos laboratórios. Visando aprimorar o uso e a boa convivência no ambiente do Laboratório de
+ Pesquisas do Curso de Ciência da Computação (sala inf-306), a partir da presente data,
+ ficam definidas as seguintes regras:
+ 1. O laboratório pode ser utilizado SOMENTE para atividades acadêmicas e
+ SOMENTE por alunos autorizados por Professores do Curso de Ciência da
+ Computação. Cada professor deve informar ao chefe do DCC os nomes dos alunos
+
+autorizados a utilizar o laboratório e justificar a necessidade. A lista com os nomes
+ ficará afixada no Laboratório em local visível.
+ 2. NÃO será permitido o consumo de comidas e bebidas. O consumo de comidas e
+ bebidas é incompatível com o ambiente de laboratório. Tal restrição visa preservar a
+ integridade dos equipamentos eletrônicos em possíveis acidentes.
+3. NÃO serão permitidas confraternizações/festas/reuniões sem consentimento.
+ Quando os alunos tiverem interesse em realizar algum tipo de confraternização, um
+ pedido deve ser encaminhado pelo representante estudantil à chefia do DCC. O IM
+ conta com inúmeras salas que ficam ociosas durante grande parte do tempo. A
+ chefia pode solicitar a Direção do IM a reserva de uma sala para tal finalidade.
+  4. NÃO será permitido instalar novos equipamentos sem consentimento. Qualquer
+ instalação de novo equipamento no Laboratório deverá ser solicitada formalmente à
+ chefia do DCC pelo representante estudantil ou por aluno autorizado a usar o
+ Laboratório, com a devida justificativa.
+ Aprovadas por unanimidade. 3. Regras do TCC: A prof. Juliana Mendes fez a divulgação das regras do manual de Trabalho de Conclusão de Curso do Curso de Ciência da Computação, elaboradas por ela e o prof. Bruno Dembougurski, que serão apreciadas, posteriormente, e deliberadas pelo Colegiado deste Departamento. Não havendo nada mais a registrar, eu, Valéria Prado de Aragão, elaborei e confeccionei a presente Ata que vai subscrita pelos demais presentes que aquiescerem com seus termos.
+
+
+Marcel William Rocha da Silva
+
+              Presidente
+
+
+   Valéria Prado de Aragão
+            Secretária
+
+
+   Bruno Dembougurski
+
+
+
+Fellipe Ribeiro Duarte
+
+
+
+Juliana Mendes Nascente e Silva Zamith
+
+
+  
+   Leandro Guimarães Marques Alvim
+
+
+
+Luiz Fernando Orleans
+
+
+
+Rafael Carvalho da Silva Bandeira
+
+
+
+Raquel de Souza Francisco Bravo
+
+
+Ricardo Corrêa Cordeiro
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+ATA_7_RO_DCC_1
+Às 10h (dez horas), do dia 03 (três) de junho do ano de 2015 (dois mil e quinze), na sala 310 (trezentos e dez) do Bloco Multimídia da Universidade Federal Rural do Rio de Janeiro, campus Nova Iguaçu, sito na Av. Governador Roberto Silveira S/N, reuniu-se o Colegiado do Departamento de Ciência da Computação, na sua 7ª (sétima) reunião ordinária, sob presidência de MARCEL WILLIAM ROCHA DA SILVA presentes os professores, BRUNO JOSÉ DEMBOGURSKI, CARLOS EDUARDO DE MELLO, FELLIPE RIBEIRO DUARTE, FILIPE BRAIDA DO CARMO, LÍGIA MARIA SOARES PASSOS, LUÍS FERNANDO ORLEANS, MARCELO PANARO DE MORAES ZAMITH, NATÁLIA CHAVES LESSA SCHOTS e RAQUEL DE SOUZA FRANCISCO BRAVO, os técnicos RAFAEL DE CARVALHO BANDEIRA e VALÉRIA PRADO DE ARAGÃO, como convidado o professor RICARDO CORDEIRO CORRÊA. Ausentes justificadamente: ADRIA RAMOS DE LYRA, LEANDRO GUIMARÃES MARQUES ALVIM e JULIANA MENDES NASCENTE SILVA ZAMITH, a fim de tratar dos seguintes pontos: 1.Informes. : O Presidente solicitou inversão dos pontos de pauta nºs 4 (quatro) e 7 (sete) para Informes. 1. Informou sobre a questão das salas de professores, disse que esteve conversando com a Direção de Campus que solicitou que aguardassem, pois, em conjunto com a Direção do Instituto estavam estudando uma solução para o caso. 2. Informou também sobre a greve dos técnicos e dos professores, disse que após uma reunião dos professores foi decidido que os docentes da UFRRJ não entrarão em greve, mas os técnicos estão em greve. Informou também que os Técnicos do DCC, Rafael e Valéria, estão atendendo as demandas essenciais. 3. Continuando, informou que "Foram instaladas duas máquinas recebidas como doação da UERJ na sala de servidores do IM. Os equipamentos estão alocados em um rack e serão usados para substituir a máquina desktop que atualmente abriga os serviços de moodle, wiki e página Web do Curso de Ciência da Computação. 4. A secretária do Departamento informou sobre os discentes que colaram grau e, até o momento, não entregaram as monografias: Aleksander de Melo; Júlio César Barbieri; Kleyton Pontes Cota; Luiz Fernando Oliveira; Raul Sena e Ygor Canalli. O professor Marcel William solicitou que os Presidentes das Bancas de Monografia dos respectivos discentes que providenciassem contato e solicitassem as monografias.  2. Processo nº 23267000171/2015-06- Progressão do professor Marcel William Rocha da Silva: Apresentado e lido o Relatório de Progressão Funcional do Nível I  para o Nível II da classe de professor Adjunto do docente Marcel William Rocha da Silva. Aprovado por unanimidade.  3. Processo nº 23267.000625/2015 - Disciplinas optativas: Os professores do Curso solicitaram a deliberação e a aprovação, pelo Departamento, da seguinte lista de disciplinas optativas e suas ementas que foram apresentadas e discutidas: Modelagem e Análise Formal de Processos de Negócio; Modelagem de Software com Rede de Petri; Introdução à Teoria das Redes de Petri; Redes de Computadores Sem Fio; Processamento de Linguagem Natural; Bancos de Dados II; Inteligência de Negócios; Introdução à Teoria de Sistemas de Recomendação; Algoritmos Paralelos e Distribuídos; Programação Paralela e Distribuída; Otimização Combinatória; Busca e Recuperação da Informação; Teoria dos Grafos e Combinatória; Governança de TI; Mineração de dados; Processamento de Imagens; Computação Gráfica II. Aprovado por unanimidade. 4. Processo de Monitoria: O Professor Marcel William disse que o processo que foi encaminhado para o Departamento de Tecnologias e Linguagens, solicitando uma resposta sobre transferências das vagas de monitoria, referentes às disciplinas do curso da Ciência da Computação, ainda não havia sido respondido pela Chefia do DTL. 5. Monitoria Voluntária: O Presidente da Comissão, Professor Fellipe Duarte, informou que gostaria de fazer uma consulta, como enquete, aos professores e fazer um estudo de qual a disciplina realmente precisa de monitoria e um estudo sobre as monitorias que seriam voluntárias. Concluindo, solicitou que o Departamento aprovasse a indicação para a presidência da Comissão o professor Bruno Dembourguski. Aprovado por unanimidade. 6. Processo nº23267.000617/2015 - Programa de Pós-Graduação em Ciência da Computação: Na reunião foi apresentada e debatida pelo Colegiado a proposta de criação do Programa de Pós-Graduação em Ciência da Computação. Tal proposta já vinha sendo elaborada e discutida em reuniões periódicas pelo Colegiado do Departamento em conjunto com o Prof. Ricardo Corrêa Cordeiro. Solicitou-se então a aprovação da proposta para encaminhamento às instâncias superiores. Aprovado por unanimidade. 7. Assuntos gerais: Não houve assuntos gerais. Não havendo nada mais a registrar, eu, Valéria Prado de Aragão, elaborei e confeccionei a presente Ata que vai subscrita pelos demais presentes que aquiescerem com seus termos.
+
+
+
+
+Marcel William Rocha da Silva
+            Presidente
+
+
+
+Valéria Prado de Aragão
+             Secretária
+
+
+
+
+
+
+
+Carlos Eduardo Ribeiro de Mello
+
+
+Fellipe Ribeiro Duarte
+
+
+Filipe Braida do Carmo
+
+
+Lígia Maria Soares Passos
+
+
+Luís Fernando Orleans
+
+
+Marcelo Panaro de Moraes Zamith
+
+
+Natália Chaves Lessa Schots
+
+
+Rafael Carvalho da Silva Bandeira
+
+
+Raquel de Souza Francisco Bravo
+
+
+Ricardo Cordeiro Corrêa
