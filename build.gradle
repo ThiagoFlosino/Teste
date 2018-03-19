@@ -42,4 +42,9 @@ dependencies {
 //	compile 'org.neo4j:neo4j-ogm-bolt-driver:2.0.5'
 //	compile 'org.neo4j:neo4j-ogm-embedded-driver:2.0.5'
 	compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
+	
+	compile group: 'org.apache.lucene', name: 'lucene-core', version: '6.6.3'
+	compile group: 'org.apache.lucene', name: 'lucene-analyzers-common', version: '6.6.3'
+	compile group: 'org.apache.lucene', name: 'lucene-queryparser', version: '6.6.3'
+	compile group: 'org.apache.lucene', name: 'lucene-facet', version: '6.6.3'
 }
