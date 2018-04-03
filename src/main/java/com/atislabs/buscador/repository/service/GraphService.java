@@ -1,7 +1,8 @@
 package com.atislabs.buscador.repository.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.neo4j.annotation.Query;
 import org.springframework.stereotype.Service;
 
 import com.atislabs.buscador.domain.Reuniao;
@@ -21,12 +22,11 @@ public class GraphService {
 		return reuniao;
 	}
 	
-	
 	public void deleteNode(Long id) {
 		reuniaoRepository.delete(id);
 	}
-	
-	
 
-
+	public List<Reuniao> buscaSemantica(String parametroA,String parametroB,String parametroC){
+		return reuniaoRepository.buscaSemantica(parametroA, parametroB, parametroC);
+	}
 }

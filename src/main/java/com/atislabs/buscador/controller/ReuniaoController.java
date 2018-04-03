@@ -50,7 +50,6 @@ public class ReuniaoController {
 		return service.getReuniaoRepository().findAll();
 	}
 
-	@GetMapping
 	public Reuniao findNumber() {
 		return service.getReuniaoRepository().findByNumeroReuniao(10);
 	}

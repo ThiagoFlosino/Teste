@@ -1,0 +1,44 @@
+﻿Ás 14h (catorze horas) do dia 01 (primeiro) de setembro do ano de 2015 (dois mil e catorze), na sala 210 (duzentos e dez), do Bloco Multimídia, da Universidade Federal Rural do Rio de Janeiro, campus Nova Iguaçu, sito na Av. Governador Roberto Silveira S/N, reuniu-se o Colegiado do Departamento de Ciência da Computação, na sua 10ª (décima) reunião ordinária, sob presidência de MARCEL WILLIAM ROCHA DA SILVA, presentes os professores BRUNO JOSÉ DEMBOGURSKI, CARLOS EDUARDO RIBEIRO DE MELLO, FILIPE BRAIDA DO CARMO, JULIANA MENDES NASCENTE E SILVA ZAMITH, LEANDRO GUIMARÃES MARQUES ALVIM, LÍGIA MARIA SOARES PASSOS, LUÍS FERNANDO ORLEANS, RICARDO CORDEIRO CORRÊA e a técnica VALÉRIA PRADO DE ARAGÃO. Ausentes justificadamente FELLIPE RIBEIRO DUARTE, MARCELO PANARO DE MORAES ZAMITH, NATÁLIA CHAVES LESSA SCHOTS e RAQUEL DE SOUZA FRANCISCO BRAVO e o técnico RAFAEL DE CARVALHO BANDEIRA, a fim de tratar dos seguintes pontos: 1. Informes: Professor Carlos Eduardo informou sobre o aceite do artigo: “Acompanhamento de Campanha Eleitoral pelo Twitter” para apresentação no CBIC 2015 – 12o. Congresso Brasileiro de Inteligência Computacional, a ser realizado em Curitiba - PR, de 13 de outubro a 16 de outubro de 2015. A professora Juliana Zamith comentou que houve alguns alunos tiveram problemas para se matricular e pediu uma atenção melhor aos professores para que identificassem os alunos que estão fora de pauta. O professor Marcel William informou que a proposta de criação do Programa de Pós Graduação em Ciência da Computação foi submetida a Capes dentro do prazo programado. Agradeceu ao prof. Ricardo Corrêa pela sua grande colaboração nesse projeto. Disse também que, após uma reunião com a Direção, foi disponibilizada mais uma sala, a duzentos e cinco (205) do bloco Multimídia, para os professores, ficando então disponíveis as salas 205, 209 e 213. Informou também que, através da intervenção da PROGRAD, as cinco bolsas de monitoria das disciplinas de Ciência da Computação foram transferidas do Departamento de Tecnologias e Linguagens para o DCC. O entendimento é de que as bolsas de monitoria são alocadas para as disciplinas de um curso, se as disciplinas mudam de departamento, as bolsas de monitoria também são transferidas. Ainda sobre as monitorias, segundo orientação do Coordenador de Monitorias o Sr. Alexandre seria necessário publicar o edital para as vagas remanescente ou renovar as que já estavam vigente. Desta forma, o chefe do DCC, prof. Marcel William já encaminhou para a PROGRAD o Edital 1/2015, que foi prontamente publicado, para o preenchimento de vagas nas seguintes disciplinas TM423 – Computação II, TM424 – Estrutura de Dados I, IM853 – Circuitos Digitais, IM854 – Linguagem Formais e Autômatos. Para a vaga referente à disciplina TM422 – Computação I a renovação da bolsa do antigo monitor será apreciada ainda nesta reunião. Ponto 1: Processo de progressão:  Prof. Marcelo Panaro de Moraes Zamith. A seguinte banca de progressão foi proposta e colocada para a aprovação: Adria Ramos de Lyra (Presidente), Ricardo Cordeiro Corrêa e Paula Takatsuka. Aprovada por unanimidade. Ponto 2: Retirado de pauta. Ponto 3: Renovação de bolsa de monitoria: O chefe do Departamento, Marcel William, solicitou ao Colegiado deliberação sobre a renovação da bolsa do monitor Wesley Muniz Duarte (Matrícula 201378032-8) na disciplina TM422 – Computação I. Aprovado por unanimidade. Ponto 4: Aprovação de banca para concurso de monitoria: Em conformidade com os requisitos para a realização do concurso de monitoria, se faz necessária a aprovação de bancas para cada uma das disciplinas que constam no Edital. Foi solicitada a aprovação das seguintes bancas avaliadoras para o concurso de monitoria do Edital 1/2015. Na disciplina TM423–Computação II: Bruno José Dembogurski (presidente), Fellipe Ribeiro Duarte (efetivo), Carlos Eduardo Ribeiro de Mello (efetivo) e Leandro Guimarães Marques Alvim (suplente). Na disciplina TM424 – Estrutura de Dados I: Leandro Guimarães Marques Alvim (presidente), Bruno José Dembogurski (efetivo), Marcelo Panaro de Moraes Zamith (efetivo) e Carlos Eduardo Ribeiro de Mello (suplente). Na disciplina IM853 – Circuitos Digitais: Marcel William Rocha da Silva (presidente), Juliana Mendes Nascente e Silva Zamith (efetivo), Filipe Braida do Carmo (efetivo) e Marcelo Panaro de Moraes Zamith (suplente). Na disciplina IM854 – Linguagem Formais e Autômatos: Lígia Maria Soares Passos (presidente), Raquel De Souza Francisco Bravo (efetivo), Marcel William Rocha da Silva (efetivo) e Juliana Mendes Nascente e Silva Zamith (suplente).   Ponto 5: Assuntos gerais: O professor Leandro Alvim levantou a hipótese dos alunos realizarem os Trabalhos de Conclusão de Curso em dupla. Segundo foi verificado pelo Prof. Carlos Eduardo em consulta ao PPC do curso de Ciência da Computação a realização do TCC em grupo já uma possibilidade prevista. O Presidente do Colegiado, aproveitando a oportunidade, solicitou informações à comissão responsável (Prof. Juliana Zamith e Prof. Bruno Dembougurski) sobre a elaboração dos procedimentos dos TCCs. E como estavam os andamentos para os Cursos de Verão. O prof. Bruno esclareceu que o projeto do cursos seriam atividades de extensão para as férias de 2016-1. Não havendo nada mais a registrar, eu, Valéria Prado de Aragão, elaborei e confeccionei a presente Ata que vai subscrita pelos demais presentes que aquiescerem com seus termos.
+
+
+
+Marcel William Rocha da Silva
+              Presidente
+
+
+
+
+Valéria Prado de Aragão
+            Secretária
+
+
+
+Bruno Dembougurski
+
+
+
+Carlos Eduardo Ribeiro de Mello
+
+
+
+Filipe Braida do Carmo
+
+
+
+Juliana Mendes Nascente e Silva Zamith
+
+
+
+Leandro Guimarães Marques Alvim
+
+
+
+Lígia Maria Soares Passos
+
+
+
+Luís Fernando Orleans
+
+
+
+Ricardo Cordeiro Corrêa

@@ -21,7 +21,7 @@ public class Reuniao {
 	private Date data; 
 	private String nome;
 	private Integer numeroReuniao;
-	private String documento;
+	private Documento documento;
 	
 	@Relationship(type = "CITADO", direction = Relationship.INCOMING)
 	private Set<Entidade> citados = new HashSet<>();
@@ -56,7 +56,7 @@ public class Reuniao {
 		
 	}
 	
-	public Reuniao(Long id, Date data, String nome, Integer numeroReuniao, String documento, Pessoa secretario,
+	public Reuniao(Long id, Date data, String nome, Integer numeroReuniao, Documento documento, Pessoa secretario,
 			Set<Pessoa> participantes, Set<Pessoa> ausentes,Set<Artefato> relacoes, Departamento departamento) {
 		super();
 		this.id = id;
@@ -103,11 +103,11 @@ public class Reuniao {
 		this.numeroReuniao = numeroReuniao;
 	}
 
-	public String getDocumento() {
+	public Documento getDocumento() {
 		return documento;
 	}
 
-	public void setDocumento(String documento) {
+	public void setDocumento(Documento documento) {
 		this.documento = documento;
 	}
 
